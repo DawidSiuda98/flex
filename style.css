@@ -2,20 +2,55 @@
 
 .flex-container {
     height: auto;
-  background: rgb(45, 54, 172);
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 5px;
   flex-direction: column;
   flex: 1 1 auto;
   margin: -8px;
 }
 
-.top {
+.one {
     width: 100%;
-    height: auto;
-    background: rgb(80, 190, 58);
+    height: 250px;
+    color: white;
+    background-color: rgb(21, 25, 46);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex: 1 1 auto;
+
+}
+
+.two {
+    width: 100%;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex: 1 1 auto;
+
+}
+
+.three {
+    width: 100%;
+    height: 250px;
+    background-color: rgb(170, 170, 170);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex: 1 1 auto;
+
+}
+
+.four {
+    width: 100%;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
     justify-content: center;
