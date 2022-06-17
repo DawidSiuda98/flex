@@ -82,7 +82,17 @@
 
 }
 
-#quad {
+#foto {
     width: 50px;
     height: auto;
+}
+
+#button1 {
+    color: white;
+    background-color: blue;
+   border-color: rgba(255, 192, 203, 0);
+}
+
+#subtext1 {
+    color: rgb(223, 226, 240);
 }
